@@ -1,0 +1,7 @@
+E:\VS Proyectos\TA21-ej08\bin\Debug\TA21-ej08.exe.config
+E:\VS Proyectos\TA21-ej08\bin\Debug\TA21-ej08.exe
+E:\VS Proyectos\TA21-ej08\bin\Debug\TA21-ej08.pdb
+E:\VS Proyectos\TA21-ej08\obj\Debug\TA21-ej08.csproj.AssemblyReference.cache
+E:\VS Proyectos\TA21-ej08\obj\Debug\TA21-ej08.csproj.CoreCompileInputs.cache
+E:\VS Proyectos\TA21-ej08\obj\Debug\TA21-ej08.exe
+E:\VS Proyectos\TA21-ej08\obj\Debug\TA21-ej08.pdb
